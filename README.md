@@ -10,8 +10,8 @@ This template will jumpstart your data science projects with the following predi
 
 ```bash
 .
-├── 1-Data_Prep.ipynb  # Data prep notebook
-├── 2-EDA.ipynb        # Final analysis notebook
+├── 1-Data_Prep.py     # Data prep notebook
+├── 2-EDA.py           # Final analysis notebook
 ├── data               # Categorized data files
 │   ├── external       # External data files  
 │   ├── interim        # Working folder
