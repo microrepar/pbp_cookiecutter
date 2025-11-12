@@ -40,9 +40,6 @@ df = pd.read_pickle(in_file)
 # %%
 
 
-
-
-
 # ### Save Excel file into reports directory
 # 
 # Save an Excel file with intermediate results into the report directory
